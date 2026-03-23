@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Civ5Package>
+  <GUID>{a3a349e5-3991-4ac1-aa0c-3a84960ee32b}</GUID>
+	<SteamApp>235580</SteamApp>
+  <Version>1</Version>
+  <Priority>150</Priority>
+  <Key>bf6d34a0074b7ad4b1d1716475f7f7fa</Key>
+  <PTags>
+	  <Tag>Version</Tag>
+  </PTags>
+  <Name>
+	  <Value language="en_US">Reload Fix</Value>
+  </Name>
+  <Description>
+	  <Value language="en_US">Reload Fix</Value>
+  </Description>
+  <UISkin name="BaseGame" set="BaseGame" platform="Common">
+		<Skin>
+      <Directory>ActionInfoPanel</Directory>
+			<Directory>InGame</Directory>
+      <Directory>FrontEnd</Directory>
+		</Skin>
+	</UISkin>	
+</Civ5Package>
